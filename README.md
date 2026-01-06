@@ -2,7 +2,8 @@
 
 This is the TakeHome technical assessment for the Weather Forecast application for Rio Money Transfer - Software Engineer (Frontend) position.
 
-## Decissions made
+## Decisions Made
+
 
 Stack: Vite, React, Typescript, React Query, Material UI, React Error Boundary.
 
